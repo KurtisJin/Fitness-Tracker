@@ -1,4 +1,5 @@
 # Fitness Tracker
+This application was made with node.js and express. Be able to keep track of your fitness goals. You will be able to continue your old routine or be able to create a new routine. 
 
 ## Badge: ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
