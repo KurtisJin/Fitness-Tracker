@@ -23,8 +23,8 @@ Keep Track of your fitness goals!
 ## Usage:
 1. Please go to the webpage and create a new or continue an exsisting working.
 
-## Demo Video of the Generator
-N/A
+## Demo Picutre or video
+![image](https://user-images.githubusercontent.com/66793863/132415039-0d933ec7-7cb5-481a-9eb8-45877a125d21.png)
 
 ## Website
 https://kurtis-fitness-tracker.herokuapp.com/
